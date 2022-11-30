@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-   <h1><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/baby-chick_1f424.png" width="30px"> Hi, I'm <a               href="https://michaelgee.stefanoesposto.com">Michael</a>
+   <h1><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/baby-chick_1f424.png" width="30px"> This is <a               href="https://michaelgee.stefanoesposto.com">Michael's</a> profile
       <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/baby-chick_1f424.png" width="30px"></h1>
 </div>
