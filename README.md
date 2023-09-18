@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-   <h1><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/baby-chick_1f424.png" width="30px"> This is <a               href="https://michaelgee.stefanoesposto.com">Michael's</a> profile
-      <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/baby-chick_1f424.png" width="30px"></h1>
-</div>
+Hi, my name is Michael!
+
+I'm a first year Systems Design Engineering student at the University of Waterloo :)
